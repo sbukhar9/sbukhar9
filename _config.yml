@@ -1,0 +1,9 @@
+title: Subhan Bukhari 
+description: My introduction and it ethics
+baseurl: "sbukhar9"
+theme: minima
+plugins:
+- jekyll-feed
+header_pages:
+  - home.md
+  - ethics.md
